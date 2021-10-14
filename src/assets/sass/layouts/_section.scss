@@ -1,0 +1,10 @@
+.section {
+  padding: 0;
+
+  &-top{
+  background-color: black;
+  }
+  &-bottom {
+    background-color: color(grey)
+  }
+}

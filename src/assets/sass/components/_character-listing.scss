@@ -1,0 +1,11 @@
+.character-listing {
+  background-color: color(white);
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  margin-bottom: 5px;
+
+  .sortable {
+    cursor: pointer;
+  }
+}
